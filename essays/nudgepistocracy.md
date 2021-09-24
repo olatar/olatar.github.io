@@ -7,6 +7,7 @@ date: 2020-05-01
 labels:
   - Philosophy, Plitics & Economics, National University of Singapore
 ---
+<img class="ui medium right floated rounded image" src="../images/vote.jpeg">
 
 In recent years, epistocracy1 as a political system has emerged as a contender to modern democracy. This is mostly related to the claim that it is unjust to expose innocent people of a risk of harm from bad governance as a result of incompetent voting by some. However, strong objections have resulted in a recognition of epistocracy as inferior to democracy. In this paper, I will show how the concept of nudging may be applied to modern democracy to get a more epistocratic voting outcome and at the same time withstand the strongest objections to epistocracy. I name this nudgepistocracy. Additionally, I will introduce two objections to nudgepistocracy as well as my responses to those objections. This paper is based on a question raised by Professor Abelard Podgorski: “Could we use nudging to get more epistocratic-type voting outcomes without restricting the right to vote?”
 
