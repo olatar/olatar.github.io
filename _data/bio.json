@@ -1,35 +1,35 @@
 {
   "basics": {
-    "name": "Lasse Wardenaer",
+    "name": "Ola Tranum Arnegaard",
     "label": "Student",
-    "picture": "https://lassewardenaer.github.io/images/ics314Image.png",
-    "email": "lassetw@hawaii.edu",
-    "phone": "808-726-7481",
-    "website": "https://lassewardenaer.github.io",
-    "summary": "I am studying for an MSc. in Cybernetics and Robotics in the Department of Cybernetics at the Norwegian University of Science and Technology. I expect to graduate in Spring, 2023.",
+    "picture": "https://olatar.github.io/images/ics314Image.png",
+    "email": "tranum.ola@gmail.com",
+    "phone": "N/A",
+    "website": "https://olatar.github.io",
+    "summary": "I am studying for an MSc. in Cybernetics and Robotics in the Department of Cybernetics at the Norwegian University of Science and Technology.",
     "location": {
-      "address": "3147 Francis St",
-      "postalCode": "96815",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "N/A",
+      "postalCode": "N/A",
+      "city": "HN/A",
+      "countryCode": "N/A",
+      "region": "N/A"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "lassewardenaer",
-        "url": "https://github.com/lassewardenaer"
+        "username": "olatar",
+        "url": "https://github.com/olatar"
       },
       {
         "network": "linkedin",
         "username": "Lasse Wardenær",
-        "url": "https://www.linkedin.com/in/lassewardenaer/"
+        "url": "https://www.linkedin.com/in/olatranum/"
       }
     ]
   },
   "interests": [
     {
-      "name": "Control Theory",
+      "name": "Social Data Science",
       "keywords": [
       ]
     },
