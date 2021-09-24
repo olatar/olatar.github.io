@@ -12,6 +12,7 @@ labels:
   - Human Mobility
 summary: Daily trip distribution analysis of Oslo bicycle-sharing system using PCA and K-means clustering
 ---
+You can learn more at [the projects github page](https://github.com/olatar/OsloCityBike-Analysis)
 
 <img class="ui medium right floated rounded image" src="../images/oslobike.jpg">
 
@@ -35,8 +36,6 @@ Each station illustrated with the color of the reconstructed center of the clust
 #### Critical Stations
 Stations that are included in clusters that have incompatible pickup and drop-off distributions
 ![critical_stations](../images/criticalstations.png)
-
-You can learn more at [the projects github page](https://github.com/olatar/OsloCityBike-Analysis).
 
 
 
